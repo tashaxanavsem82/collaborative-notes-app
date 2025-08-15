@@ -10,6 +10,9 @@ Thank you for your interest in contributing to the Collaborative Notes App! Your
 5. **Push to your fork**: Push your changes to your GitHub fork.
 6. **Submit a pull request**: Open a pull request against the main repository.
 
+## Testing Your Changes
+Before submitting your pull request, please ensure that your changes are well-tested. Run all tests to verify that nothing is broken. Include any new tests if your changes introduce new functionality or fix bugs.
+
 ## Issues and Feedback
 If you have any questions or feedback, please open an issue in the repository or contact the maintainers directly.
 
