@@ -10,5 +10,8 @@ Thank you for your interest in contributing to the Collaborative Notes App! Your
 5. **Push to your fork**: Push your changes to your GitHub fork.
 6. **Submit a pull request**: Open a pull request against the main repository.
 
+## Issues and Feedback
+If you have any questions or feedback, please open an issue in the repository or contact the maintainers directly.
+
 ## Code of Conduct
 By participating in this project, you agree to abide by our code of conduct.
