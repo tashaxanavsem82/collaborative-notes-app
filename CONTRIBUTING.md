@@ -15,3 +15,6 @@ If you have any questions or feedback, please open an issue in the repository or
 
 ## Code of Conduct
 By participating in this project, you agree to abide by our code of conduct.
+
+### Code of Conduct Details
+Our code of conduct aims to create a welcoming and inclusive environment. Please be respectful, considerate, and supportive towards fellow contributors.
